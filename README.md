@@ -58,8 +58,8 @@ Menú por consola con opciones:
 5. Insertar un jugador nuevo
 6. Actualizar equipo (nombre o ciudad)
 7. Actualizar jugador (nombre o posicon)
-7. Eliminar equipo (con o sin jugadores asociados)
-8. Eliminar jugador
+8. Eliminar equipo (con o sin jugadores asociados)
+9. Eliminar jugador
 
 ---
 
